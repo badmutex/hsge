@@ -12,7 +12,8 @@ cabal-version:       >= 1.2
 
 Library
     build-depends:       base, HSH >= 2.0.0
-    exposed-modules:     System.SGE.Classes,
+    exposed-modules:     System.SGE,
+                         System.SGE.Classes,
                          System.SGE.ShellCmd,
                          System.SGE.QSub
     ghc-options: -Wall

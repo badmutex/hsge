@@ -4,8 +4,7 @@
   , TypeSynonymInstances
   #-}
 
-module System.SGE.QSub ( CmdString (..)
-                       , EmailTrigger (..)
+module System.SGE.QSub ( EmailTrigger (..)
                        , QSubFlag (..)
                        , QSub (..)
                        ) where
