@@ -1,0 +1,15 @@
+name:                hsge
+version:             0.0
+synopsis:            Wrapper to SGE commands
+description:         Library that allows calls to SGE commands (i.e. qsub) through the shell to be made.
+category:            Control, System
+license:             BSD3
+license-file:        LICENSE
+author:              Badi Abdul-Wahid
+maintainer:          abdulwahidc@gmail.com
+build-type:          Simple
+
+
+Library
+    build-depends:       base
+    ghc-options: -Wall
