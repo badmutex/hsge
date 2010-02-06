@@ -1,5 +1,5 @@
 name:                hsge
-version:             0.0
+version:             0.1
 synopsis:            Wrapper to SGE commands
 description:         Library that allows calls to SGE commands (i.e. qsub) through the shell to be made.
 category:            Control, System
